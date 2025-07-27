@@ -12,8 +12,8 @@ This is a fully responsive, modern portfolio built to present my work in softwar
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, HTML5, CSS3
-- **Styling:** Tailwind CSS
+- **Frontend:** HTML
+- **Styling:** CSS
 - **Deployment:** Netlify
 - **Backend Projects (Linked):** MERN stack (MongoDB, Express, React, Node.js), Python (Flask, OOP)
 
@@ -27,10 +27,11 @@ Clone the repo:
 ```bash
 git clone https://github.com/PhilipOndieki/PhilipOndieki_Portfolio.git
 cd PhilipOndieki_Portfolio
-npm install
-npm run dev
+right click
+open live server
+
 🌐 Deployment
-Deployed via Netlify: Continuous Deployment set up via GitHub → Netlify integration.
+Deployed via Netlify: Continuous Deployment set up via Netlify.
 
 📧 Contact
 For collaborations or freelance opportunities:
